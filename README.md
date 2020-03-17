@@ -1,4 +1,4 @@
 # Music Player
 A Simple Music Player
 
-Demo: https://breakout-web-game.herokuapp.com/
+Demo: https://musicplayer0114.netlify.com
